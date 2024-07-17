@@ -22,7 +22,7 @@ jobs:
         with:
           application_id: ${{ secrets.RELEASE_BOT_ID }}
           application_private_key: ${{ secrets.RELEASE_BOT_PRIVATE_KEY }}
-          organization: "rhochmayr"
+          #organization: "rhochmayr"
 
       # Create release PR or release
       # - PRs are created on user-facing changes (feat, fix, or any breaking changes).
@@ -61,7 +61,7 @@ jobs:
         with:
           application_id: ${{ secrets.RELEASE_BOT_ID }}
           application_private_key: ${{ secrets.RELEASE_BOT_PRIVATE_KEY }}
-          organization: "rhochmayr"
+          #organization: "rhochmayr"
 
       # Approve with github-actions bot
       - name: Approve PR
@@ -98,7 +98,7 @@ jobs:
         with:
           application_id: ${{ secrets.RELEASE_BOT_ID }}
           application_private_key: ${{ secrets.RELEASE_BOT_PRIVATE_KEY }}
-          organization: "rhochmayr"
+          #organization: "rhochmayr"
 
       - name: Extend Release Notes
         env:
