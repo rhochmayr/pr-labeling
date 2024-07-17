@@ -1,0 +1,14 @@
+{
+    "packages": {
+        ".": {
+            "release-type": "simple"
+        }
+    },
+    "pull-request-header": ":frog: I have created a release _ribbit ribbit_",
+    "pull-request-footer": "Lilypad: Unleash Idle Compute Power",
+    "plugins": [
+        {
+            "type": "sentence-case"
+        }
+    ]
+}
