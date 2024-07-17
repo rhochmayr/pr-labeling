@@ -1,1 +1,1 @@
-# pr-labelling-
+# pr-labeling
