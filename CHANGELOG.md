@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.2](https://github.com/rhochmayr/pr-labeling/compare/v2.3.1...v2.3.2) (2024-07-30)
+
+
+### Bug Fixes
+
+* Some bug ([#8](https://github.com/rhochmayr/pr-labeling/issues/8)) ([996e4ea](https://github.com/rhochmayr/pr-labeling/commit/996e4ead0e35864b6b2b210dcd2d9cd1d5caa147))
+
 ## [2.3.1](https://github.com/rhochmayr/pr-labeling/compare/v2.3.0...v2.3.1) (2024-07-17)
 
 
